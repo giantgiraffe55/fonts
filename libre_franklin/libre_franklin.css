@@ -1,125 +1,124 @@
 ﻿@font-face {
     font-family: 'Libre Franklin';
-    src: url(https://github.com/giantgiraffe55/fonts/raw/main/libre_franklin/static/LibreFranklin-Thin.ttf) format('truetype');
+    src: url(https://giantgiraffe55.github.io/fonts/libre_franklin/static/LibreFranklin-Thin.ttf) format('truetype');
     font-weight: 100;
     font-style: normal;
 }
-
 @font-face {
     font-family: 'Libre Franklin';
-    src: url(https://github.com/giantgiraffe55/fonts/raw/main/libre_franklin/static/LibreFranklin-ThinItalic.ttf) format('truetype');
+    src: url(https://giantgiraffe55.github.io/fonts/libre_franklin/static/LibreFranklin-ThinItalic.ttf) format('truetype');
     font-weight: 100;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Libre Franklin';
-    src: url(https://github.com/giantgiraffe55/fonts/raw/main/libre_franklin/static/LibreFranklin-ExtraLight.ttf) format('truetype');
+    src: url(https://giantgiraffe55.github.io/fonts/libre_franklin/static/LibreFranklin-ExtraLight.ttf) format('truetype');
     font-weight: 200;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Libre Franklin';
-    src: url(https://github.com/giantgiraffe55/fonts/raw/main/libre_franklin/static/LibreFranklin-ExtraLightItalic.ttf) format('truetype');
+    src: url(https://giantgiraffe55.github.io/fonts/libre_franklin/static/LibreFranklin-ExtraLightItalic.ttf) format('truetype');
     font-weight: 200;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Libre Franklin';
-    src: url(https://github.com/giantgiraffe55/fonts/raw/main/libre_franklin/static/LibreFranklin-Light.ttf) format('truetype');
+    src: url(https://giantgiraffe55.github.io/fonts/libre_franklin/static/LibreFranklin-Light.ttf) format('truetype');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Libre Franklin';
-    src: url(https://github.com/giantgiraffe55/fonts/raw/main/libre_franklin/static/LibreFranklin-LightItalic.ttf) format('truetype');
+    src: url(https://giantgiraffe55.github.io/fonts/libre_franklin/static/LibreFranklin-LightItalic.ttf) format('truetype');
     font-weight: 300;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Libre Franklin';
-    src: url(https://github.com/giantgiraffe55/fonts/raw/main/libre_franklin/static/LibreFranklin-Regular.ttf) format('truetype');
+    src: url(https://giantgiraffe55.github.io/fonts/libre_franklin/static/LibreFranklin-Regular.ttf) format('truetype');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Libre Franklin';
-    src: url(https://github.com/giantgiraffe55/fonts/raw/main/libre_franklin/static/LibreFranklin-Italic.ttf) format('truetype');
+    src: url(https://giantgiraffe55.github.io/fonts/libre_franklin/static/LibreFranklin-Italic.ttf) format('truetype');
     font-weight: 400;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Libre Franklin';
-    src: url(https://github.com/giantgiraffe55/fonts/raw/main/libre_franklin/static/LibreFranklin-Medium.ttf) format('truetype');
+    src: url(https://giantgiraffe55.github.io/fonts/libre_franklin/static/LibreFranklin-Medium.ttf) format('truetype');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Libre Franklin';
-    src: url(https://github.com/giantgiraffe55/fonts/raw/main/libre_franklin/static/LibreFranklin-MediumItalic.ttf) format('truetype');
+    src: url(https://giantgiraffe55.github.io/fonts/libre_franklin/static/LibreFranklin-MediumItalic.ttf) format('truetype');
     font-weight: 500;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Libre Franklin';
-    src: url(https://github.com/giantgiraffe55/fonts/raw/main/libre_franklin/static/LibreFranklin-SemiBold.ttf) format('truetype');
+    src: url(https://giantgiraffe55.github.io/fonts/libre_franklin/static/LibreFranklin-SemiBold.ttf) format('truetype');
     font-weight: 600;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Libre Franklin';
-    src: url(https://github.com/giantgiraffe55/fonts/raw/main/libre_franklin/static/LibreFranklin-SemiBoldItalic.ttf) format('truetype');
+    src: url(https://giantgiraffe55.github.io/fonts/libre_franklin/static/LibreFranklin-SemiBoldItalic.ttf) format('truetype');
     font-weight: 600;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Libre Franklin';
-    src: url(https://github.com/giantgiraffe55/fonts/raw/main/libre_franklin/static/LibreFranklin-Bold.ttf) format('truetype');
+    src: url(https://giantgiraffe55.github.io/fonts/libre_franklin/static/LibreFranklin-Bold.ttf) format('truetype');
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Libre Franklin';
-    src: url(https://github.com/giantgiraffe55/fonts/raw/main/libre_franklin/static/LibreFranklin-BoldItalic.ttf) format('truetype');
+    src: url(https://giantgiraffe55.github.io/fonts/libre_franklin/static/LibreFranklin-BoldItalic.ttf) format('truetype');
     font-weight: 700;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Libre Franklin';
-    src: url(https://github.com/giantgiraffe55/fonts/raw/main/libre_franklin/static/LibreFranklin-ExtraBold.ttf) format('truetype');
+    src: url(https://giantgiraffe55.github.io/fonts/libre_franklin/static/LibreFranklin-ExtraBold.ttf) format('truetype');
     font-weight: 800;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Libre Franklin';
-    src: url(https://github.com/giantgiraffe55/fonts/raw/main/libre_franklin/static/LibreFranklin-ExtraBoldItalic.ttf) format('truetype');
+    src: url(https://giantgiraffe55.github.io/fonts/libre_franklin/static/LibreFranklin-ExtraBoldItalic.ttf) format('truetype');
     font-weight: 800;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Libre Franklin';
-    src: url(https://github.com/giantgiraffe55/fonts/raw/main/libre_franklin/static/LibreFranklin-Black.ttf) format('truetype');
+    src: url(https://giantgiraffe55.github.io/fonts/libre_franklin/static/LibreFranklin-Black.ttf) format('truetype');
     font-weight: 900;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Libre Franklin';
-    src: url(https://github.com/giantgiraffe55/fonts/raw/main/libre_franklin/static/LibreFranklin-BlackItalic.ttf) format('truetype');
+    src: url(https://giantgiraffe55.github.io/fonts/libre_franklin/static/LibreFranklin-BlackItalic.ttf) format('truetype');
     font-weight: 900;
     font-style: italic;
 }
